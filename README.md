@@ -35,7 +35,8 @@
 .Sales show a steady growth trend over time
 .Enables data-driven decisions for marketing, inventory, and customer targeting
 
-
+> Snapshot of the dashboard
+ https://github.com/shoyeb-tech/Sales-Performance-Dashboard/blob/main/snapshot%20of%20the%20dashboard.png
 
 
 
