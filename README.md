@@ -8,7 +8,7 @@
  This dashboard helps stakeholders make data-driven business decisions by providing clear and interactive insights.
 
 >Tech Stack
-.Power Query – Data cleaning, transformation, and preparation
+.Power Query – Data cleaning, transformation and preparation
 .Power BI – visualization and dashboard creation
 
 >Data Source
